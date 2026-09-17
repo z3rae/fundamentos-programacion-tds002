@@ -1,0 +1,6 @@
+﻿# Visual Studio / C# build outputs
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
